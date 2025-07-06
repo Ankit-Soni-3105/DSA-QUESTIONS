@@ -36,3 +36,39 @@
 
 10. **Accept the marks of Robert in three subjects Maths, Computer, English respectively (each out of 100), Write a program to calculate his total marks and percentage marks.**
    - Write a program to accept marks and calculate total and percentage.
+
+11. **Find circumference and area of circle**
+    - Write a program to accept the radius of a circle and calculate its circumference and area.
+
+---
+
+## IF ELSE Day 8 to 11
+
+12. **Accept two numbers and print the greatest between them**
+    - Write a program to accept two numbers and print the greatest.
+
+13. **Accept the gender from the user as char and print the respective greeting message**
+    - Example: Good Morning Sir (on the basis of gender)
+
+14. **Extend the previous program and handle the wrong inputs.**
+    - Print Good Morning Sir for input 'm' or 'M' & Good Morning Maam for input 'f' or 'F', else print Wrong Input.
+
+15. **Accept an integer and check whether it is an even number or odd.**
+    - Write a program to check if a number is even or odd.
+
+16. **Accept name and age from the user. Check if the user is a valid voter or not.**
+    - Valid: Hello Shery, You are a valid voter.
+    - Invalid: Sorry Shery, you can't cast the vote.
+    - Part 2: Print after how many years the user will be eligible.
+
+17. **Accept a day number between 1-7 and print the corresponding day name.**
+    - Write a program to print the day name for a given day number.
+
+18. **Accept three numbers and print the greatest among them.**
+    - Write a program to find the greatest of three numbers.
+
+19. **Accept a year and check if it is a leap year or not.**
+    - Write a program to check if a year is a leap year.
+
+20. **Shop discount - Description on Graphic**
+    - Write a program to calculate shop discount as per the given description/graphic.
