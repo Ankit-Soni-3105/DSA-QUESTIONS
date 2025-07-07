@@ -42,7 +42,7 @@
 
 ---
 
-## IF ELSE Day 8 to 11
+## IF ELSE 
 
 12. **Accept two numbers and print the greatest between them**
     - Write a program to accept two numbers and print the greatest.
@@ -72,3 +72,45 @@
 
 20. **Shop discount - Description on Graphic**
     - Write a program to calculate shop discount as per the given description/graphic.
+
+21. **bijili bill ka tha yarr**
+
+22. **Accept an english alphabet from user and check if it is a consonant or a vowel**
+    - Write a program to determine if an input alphabet is a vowel or consonant.
+
+---
+
+## LOOPS 
+
+23. **Accept an integer and Print hello world n times**
+    - Write a program to print "Hello World" the number of times specified by user input.
+
+24. **Print natural numbers up to n**
+    - Write a program to print all natural numbers from 1 to n.
+
+25. **Reverse for loop. Print n to 1**
+    - Write a program to print numbers from n down to 1.
+
+26. **Take a number as input and print its table**
+    - Example output:
+      ```
+      5 * 1 = 5
+      5 * 2 = 10
+      ...up to 10 terms
+      ```
+
+27. **Sum up to n terms**
+    - Write a program to calculate the sum of numbers from 1 to n.
+
+28. **Factorial of a number**
+    - Write a program to calculate the factorial of a given number.
+
+29. **Print the sum of all even & odd numbers in a range separately**
+    - Write a program to calculate separate sums for even and odd numbers in a given range.
+
+30. **Print all the factors of a number**
+    - Write a program to find and display all factors of a given number.
+
+31. **Print the sum of all factors of a number**
+    - Write a program to find and sum all factors of a number
+    - Example: 50 -> 1 + 2 + 5 + 10 + 25 = 43
