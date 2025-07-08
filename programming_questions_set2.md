@@ -114,3 +114,47 @@
 31. **Print the sum of all factors of a number**
     - Write a program to find and sum all factors of a number
     - Example: 50 -> 1 + 2 + 5 + 10 + 25 = 43
+
+
+32. **Check if the number is Prime or not**
+    - Write a program to check if a given number is prime.
+
+33. **Write a program to take two inputs a, b & find the value of a raised to the power of b**
+    - Example: a = 2, b = 5
+    - Output: 2^5 = 32
+
+34. **Separate each digit of a number and print it on a new line**
+    - Example: 123
+      ```
+      3
+      2
+      1
+      ```
+
+35. **Sum of digits of a number**
+    - Example: 936 = 18
+
+36. **Accept a number and print its reverse**
+    - Write a program to reverse a given number.
+
+37. **Accept a number and check if it is a palindromic number (If number and its reverse are equal)**
+    - Example: 12321 - Reverse - 12321
+
+38. **Accept a number and check if it is a strong number or not (Sum of factorial of each digit)**
+    - Example: 145 = 1! + 4! + 5! = 145
+
+39. **Automorphic number**
+    - Example: 5 = 25 = 625 = 390625, 6 = 36, 76 = 5776
+
+---
+
+## DO WHILE, SWITCH Day 17 to 19
+
+40. **Print hello until user gives wrong input using do while**
+    - Write a program to print "Hello" repeatedly until the user provides a wrong input.
+
+41. **Make a choice based calculator using do while**
+    - Write a calculator program that continues based on user choice using do while.
+
+42. **Print Weekday using Switch**
+    - Write a program to print the weekday name using a switch statement.
