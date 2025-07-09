@@ -158,3 +158,79 @@
 
 42. **Print Weekday using Switch**
     - Write a program to print the weekday name using a switch statement.
+
+---
+
+## NESTED LOOP / PATTERN Day 20 to 21
+
+46. **Right Triangle - Star**
+    ```
+    *
+    * *
+    * * *
+    * * * *
+    * * * * *
+    ```
+
+47. **Right Triangle - Number**
+    ```
+    1
+    1 2
+    1 2 3
+    1 2 3 4
+    1 2 3 4 5
+    ```
+
+48. **Right Triangle - Alphabet**
+    ```
+    A
+    A B
+    A B C
+    A B C D
+    A B C D E
+    ```
+
+49. **Inverted Right Triangle**
+    ```
+    * * * * *
+    * * * *
+    * * *
+    * *
+    *
+    ```
+
+50. **Mirrored Right Triangle**
+    ```
+            *
+          * *
+        * * *
+      * * * *
+    * * * * *
+    ```
+
+51. **Triangle**
+    ```
+        *
+       * *
+      * * *
+     * * * *
+    * * * * *
+    ```
+
+52. **V - Min Height = 3 its one of my favorite**
+    ```
+        *       *
+         *     *
+          *   *
+           * *
+            *
+    ```
+
+53. **X**
+    ```
+        *        *
+          *   *
+            *
+         *     *
+      *          *
+    ```
