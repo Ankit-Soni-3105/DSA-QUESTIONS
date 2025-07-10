@@ -234,3 +234,35 @@
          *     *
       *          *
     ```
+
+---
+
+## ARRAY / SEARCH / SORTING Day 22+
+
+54. **Accept size n from user and create a n size array then take n inputs into the array and finally print the sum & average of all elements.**
+
+55. **Find the greatest element in an array.**  
+    Example: {2, 96, 69, 77, 145, 20} → Max element = 145 found at 4 index
+
+56. **Find the second greatest element in an array.**  
+    Example: {2, 96, 69, 77, 145, 20} → Second greatest element = 96
+
+57. **Check if array is sorted in increasing order or not.**  
+    Example 1: {1, 5, 8, 9, 10, 15} → Output: "YES"  
+    Example 2: {1, 8, 6, 9, 10, 15} → Output: "NO"
+
+58. **Take n integer inputs from user and store them in an array. Now, copy all the elements in another array but in reverse order and print it.**
+
+59. **Array left rotation by 1 position.**
+
+60. **Array left rotation by K elements.**
+
+61. **Reverse an array without using extra space.**
+
+62. **Linear search in an array.**  
+    If element found, print the index; else print -1.
+
+63. **Binary search in a sorted array.**  
+    If element found, print the index; else print -1.
+
+64. **Bubble sort an array.**
