@@ -1,4 +1,4 @@
-# Programming Questions (Set 2)
+# Programming Questions
 
 1. **Accept numbers from a user**
    - Write a program to accept numbers from the user.
@@ -148,7 +148,7 @@
 
 ---
 
-## DO WHILE, SWITCH Day 17 to 19
+## DO WHILE, SWITCH
 
 40. **Print hello until user gives wrong input using do while**
     - Write a program to print "Hello" repeatedly until the user provides a wrong input.
@@ -161,7 +161,7 @@
 
 ---
 
-## NESTED LOOP / PATTERN Day 20 to 21
+## NESTED LOOP / PATTERN
 
 46. **Right Triangle - Star**
     ```
@@ -237,7 +237,7 @@
 
 ---
 
-## ARRAY / SEARCH / SORTING Day 22+
+## ARRAY / SEARCH / SORTING 
 
 54. **Accept size n from user and create a n size array then take n inputs into the array and finally print the sum & average of all elements.**
 
