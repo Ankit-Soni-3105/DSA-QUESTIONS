@@ -266,3 +266,31 @@
     If element found, print the index; else print -1.
 
 64. **Bubble sort an array.**
+65. **Move all the negative elements on left side and positive elements on right side O(n).**
+
+66. **Print the count of subarrays whose sum is equal to the target.**  
+    Example: {1,2,3,7,5}, T = 12  
+    Output: 2 — [{2,3,7}, {7,5}] — Both subarrays have sum 12
+
+67. **Strong number using methods.**
+
+68. **Special number using methods.**
+
+69. **Leetcode 1929 — Concatenation of array.**
+
+70. **Leetcode 1920 — Build Array from Permutation.**
+
+---
+
+## STRING Day 33 to 37
+
+71. **Accept a string from user and print its each character on a new line.**
+
+72. **Accept a string and print it in reverse order.**
+
+73. **Check if the string is Palindromic or not.**
+
+74. **Palindromic String using method and Two pointer algorithm**  
+    (Hint: Array reverse algo)
+
+75. **Count vowels and consonants in a string.**
