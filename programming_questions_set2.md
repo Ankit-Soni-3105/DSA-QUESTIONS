@@ -294,3 +294,43 @@
     (Hint: Array reverse algo)
 
 75. **Count vowels and consonants in a string.**
+
+76. **Toggle each alphabet of String**  
+    Input: AcgDfD  
+    Output: aCGdFd
+
+77. **Take an array of strings `words` and a String `pref`. Print the number of strings in `words` that contain `pref` as a prefix.**  
+    Example:  
+    Input: words = ["pay","attention","practice","attend"], pref = "at"  
+    Output: 2
+
+78. **Accept a space separated sentence and split it into words. Print each word on a new line with first letter capitalized.**  
+    Input: Hello bhai kaise ho  
+    Output:  
+    Hello  
+    Bhai  
+    Kaise  
+    Ho
+
+79. **Extend the previous question and capitalize first & last character of each word in the sentence and print the new sentence.**  
+    Example:  
+    Input: Hello bhai Kaise ho a  
+    Output: HellO BhaI KaisE HO A
+
+80. **Leetcode 2114 — Maximum Number of Words Found in Sentences**
+
+81. **Accept a string and print the frequency of each character present in the string.**
+
+82. **Check if two strings are Anagram or Not**  
+    Anagram words have the same length & same character count.  
+    Examples: arc and car, state and taste, night and thing.
+
+83. **Sort the words of the sentence.**
+
+---
+
+## HASHING Day 40 to 41
+
+84. **Print the unique elements in an array.**
+
+85. **Find the frequency of elements in an integer array.**
