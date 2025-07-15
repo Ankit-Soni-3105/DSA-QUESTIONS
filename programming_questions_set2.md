@@ -334,3 +334,27 @@
 84. **Print the unique elements in an array.**
 
 85. **Find the frequency of elements in an integer array.**
+
+---
+
+## LEETCODE DAY 
+
+86. Leetcode 1. Two Sum
+
+87. Leetcode 7. Pallindrome number
+
+88. Leetcode 9. Reverse Integer
+
+89. Leetcode 258. Add digits
+
+90. Leetcode 204. Count Primes
+
+91. Leetcode 1492. The kth Factor of n
+
+92. Leetcode 1979. Find Greatest Common Divisor of Array
+
+93. Leetcode 69. Sqrt(x)
+
+94. Leetcode 50. Pow(x, n)
+
+95. Leetcode 231. Power of Two
