@@ -358,3 +358,29 @@
 94. Leetcode 50. Pow(x, n)
 
 95. Leetcode 231. Power of Two
+
+## LEETCODE / ARRAYS LEVEL 1 & 2
+
+96. **Leetcode 344 — Reverse String**
+
+97. **Left Rotation by K elements**
+    - In O(n) time & O(n) space
+    - In O(1) space using swap algorithm
+
+98. **Leetcode 189 — Rotate Array**
+
+99. **Leetcode 485 — Max Consecutive Ones**
+
+100. **Leetcode 88 — Merge Sorted Array**
+
+101. **Leetcode 941 — Valid Mountain Array**
+
+102. **Leetcode 26 — Remove Duplicates from Sorted Array**
+
+103. **Leetcode 1089 — Duplicate Zeros**
+
+104. **Leetcode 977 — Squares of a Sorted Array**
+
+105. **Leetcode 283 — Move Zeroes**
+
+106. **Leetcode 724 — Find Pivot Index**
