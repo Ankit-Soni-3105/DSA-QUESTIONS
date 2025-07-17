@@ -384,3 +384,25 @@
 105. **Leetcode 283 — Move Zeroes**
 
 106. **Leetcode 724 — Find Pivot Index**
+
+107. **Leetcode 238 — Product of Array Except Self**
+
+108. **Leetcode 53 — Maximum Subarray**  
+    - Kadane's Algorithm
+
+109. **Leetcode 169 — Majority Element**  
+    - Moore's Voting Algorithm
+
+110. **Leetcode 121 — Best Time to Buy and Sell Stock**
+
+111. **Leetcode 42 — Trapping Rain Water**
+
+112. **Leetcode 11 — Container With Most Water**
+
+113. **Leetcode 912 — Sort an Array**
+
+114. **Leetcode 75 — Sort Colors**
+
+115. **Leetcode 268 — Missing Number**
+
+116. **Leetcode 448 — Find All Numbers Disappeared in an Array**
